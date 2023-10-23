@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+.cartão{
+background-color: hsl(216, 50%, 16%);
+width: 25vw;
+position: relative;
+left: 38vw;
+}
+#imgtop{
+    width:100% ;
+    border-radius: 30px;
+    padding: 20px;
+}
+h1{
+    color: white;
+    font-size: 25px;
+}
+.texto{
+    padding: 30px;
+}
+p{
+    color: lightgray;
+    opacity: o,5; 
+}
+.alinhado{
+    display: inline-block;
+}
